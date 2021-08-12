@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yggdr0
-- 👀 I’m interested in Database Management, Automation and Data Analytics
+- 👀 I’m interested Automation and Data Analytics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
