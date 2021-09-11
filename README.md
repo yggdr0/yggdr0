@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yggdr0
-- 👀 I’m interested Automation and Data Analytics
-- 🌱 I’m currently learning Python
+- 👀 I’m interested Automation and Python for Data Analysis
+- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
